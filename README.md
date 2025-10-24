@@ -1,5 +1,6 @@
 # Challenge-Alura-Store
 📊 Desafio Alura Store — Análise de Desempenho das Lojas
+
 🧩 Este projeto tem como objetivo auxiliar o Senhor João, dono da rede fictícia Alura Store, a decidir qual loja vender para investir em um novo negócio.
 A análise foi feita com base em dados de vendas, desempenho e avaliações das quatro lojas da rede, buscando identificar a loja menos eficiente e apresentar uma recomendação final baseada em dados.
 
